@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: da466d6212b80a5439ca80904b2d6591
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tipPanel: {fileID: 4429449829639443270, guid: a0675bf5ba77a3145bc0c26f77b2cfe7, type: 3}
+  - canvasGroup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

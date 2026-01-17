@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 477447ef64ae40d4e98769ddd635fb13
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentDialogue: {fileID: 11400000, guid: 218d00e2b430457469d47765add607a7, type: 2}
+  - messageContainer: {instanceID: 0}
+  - messagePrefab: {instanceID: 0}
+  - nextButton: {instanceID: 0}
+  - hangUpButton: {instanceID: 0}
+  - optionGroup: {instanceID: 0}
+  - optionButtonPrefab: {instanceID: 0}
+  - weiLiReminder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
