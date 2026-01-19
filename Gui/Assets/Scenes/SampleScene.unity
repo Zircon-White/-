@@ -6102,9 +6102,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 260a66e7e86eebf44b5eac1bf3d3fb3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ringPanel: {fileID: 1099789604}
-  answerButton: {fileID: 1775493358}
-  phoneWindow: {fileID: 1265119901}
 --- !u!114 &2132004282
 MonoBehaviour:
   m_ObjectHideFlags: 0
